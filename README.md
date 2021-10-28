@@ -1,5 +1,13 @@
 # Basado en FoldaRap-2021 versión 4.0
 
+FoldaRap é unha impresora 3D pregable de código aberto e fácil de montar. O seu inventor, Emmanuel Gilloz, é deseñador, maker e unha persoas idealista que soña con facer máis accesible a tecnoloxía a todo o mundo.
+
+A idea de crear a FoldaRap xurdiu en 2009 cando se comprou a súa primeira impresora 3D RepRap, ou o que é o mesmo, un modelo que permitía imprimir algunhas das súas propias pezas, e investiu na súa construción máis de 6 meses.
+
+Despois da ardua experiencia,  Emmanuel decidiu simplificar esta tarefa ao resto do mundo e deseñar a primeira impresora 3D que se pode montar e calibrar en poucas horas.
+
+Para iso redeseñou desde cero o sistema eléctrico e os mecanismos ao completo. O resultado é unha impresora pregable, fácil de enviar por correo e de almacenar en casa cando non está en uso, de fácil manexo e prezo alcanzable.
+
 Entre as principais características desta impresora atopamos:
 
 - Peso contorna ao 4Kg e que sexa pregable.
