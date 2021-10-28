@@ -19,3 +19,5 @@ URL montaje https://reprap.org/wiki/FoldaRap_Build_Manual
 URL Proxecto https://reprap.org/wiki/FoldaRap#FoldaRap_4.0
 
 Ano 2021 - Proxecto financiado por Xunta de Galicia
+
+![Impresora 3d FoldaRap](https://raw.githubusercontent.com/AmigusLabs/FoldaRap-2021/main/photos/IMG_20200711_123924.jpg)
